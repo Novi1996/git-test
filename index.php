@@ -9,5 +9,9 @@
 <body>
 <h1> hello world </h1>
 <p>Belejar GIT</p>
+<ul>
+<li> satu </li>
+<li> dua </li>
+</ul>
 </body>
 </html>
